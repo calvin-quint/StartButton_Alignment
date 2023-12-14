@@ -15,13 +15,13 @@ Before using the script, ensure you have the following:
 
 1. Download the Windows11_CompatibilityCheck.ps1 script from this repository.
 2. Open PowerShell and navigate to the directory where the script is located.
-3. Run the script using the command: .\Windows11_CompatibilityCheck.ps1
+3. Run the script using the command: .\StartButton.ps1
 
 ## How to Use
 
 1. Run PowerShell as an administrator.
 2. Navigate to the directory where the script is located.
-3. Run the script using the command: .\Windows11_CompatibilityCheck.ps1
+3. Run the script using the command: .\StartButton.ps1
 
 ## Instructions
 
